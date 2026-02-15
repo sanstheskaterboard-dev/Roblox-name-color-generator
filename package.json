@@ -1,0 +1,13 @@
+{
+  "name": "roblox-name-color-generator",
+  "version": "1.0.0",
+  "description": "Generate Roblox chat name colors based on username using TS",
+  "scripts": {
+    "build": "tsc",
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "live-server": "^1.2.2"
+  }
+}
